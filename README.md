@@ -23,5 +23,11 @@ EDITED.
 
 <h1>VS again...o</h1>
 
+<<<<<<< HEAD
 
 <h1>I'm fro VC Code</h1>
+=======
+<hr>
+
+<h1>Good morning...C9</h1>
+>>>>>>> 7b091c3e059af3c905f4c2bb236f4aa5ab02b713
