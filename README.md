@@ -31,3 +31,6 @@ EDITED.
 
 <h1>Good morning...C9</h1>
 >>>>>>> 7b091c3e059af3c905f4c2bb236f4aa5ab02b713
+
+<hr>
+<h1>New banana feature</h1>
